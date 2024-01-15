@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+
+printf("hello,各位，小白来了!);
+
+
+return 0;
+}
